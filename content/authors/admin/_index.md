@@ -46,6 +46,7 @@ education:
       institution: 
       year: Sept 2000 -July 2004
 
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
  skills:
