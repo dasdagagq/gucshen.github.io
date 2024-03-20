@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 彭志成
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhi Cheng Peng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhi Cheng
+last_name: Peng
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,38 +30,38 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - digital economic
+  - international investment
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in digital economic
+      institution: ABC University
+      year: 2020
+    - course: MEng in digital economic
+      institution: Massachusetts Institute of Technology
+      year: 2016
+    - course: BSc in digital economic
+      institution: Massachusetts Institute of Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: java
         description: ''
         percent: 80
-        icon: python
+        icon: wps
         icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: spss
         description: ''
         percent: 40
         icon: database
@@ -70,12 +70,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: running
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: swimming
         description: ''
         percent: 100
         icon: cat
