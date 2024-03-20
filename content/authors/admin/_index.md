@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 彭志成
+title: Dr Yong Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Zhi Cheng Peng
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Zhi Cheng
-last_name: Peng
+first_name:
+last_name: 
 
 # Status emoji
 status:
@@ -17,38 +17,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: student
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Polytechnic University
+    url: https://www.sspu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
+Research:
+  - international business
   - digital economic
-  - international investment
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in digital economic
-      institution: ABC University
-      year: 2020
-    - course: MEng in digital economic
-      institution: Massachusetts Institute of Technology
-      year: 2016
-    - course: BSc in digital economic
-      institution: Massachusetts Institute of Technology
-      year: 2012
+    - course: PhD in Business and Management
+      institution: Queen Mary University of London
+      year: Jan 2006 - Jan 2010
+    - course: M.Sc. in Business Management
+      institution: University of East Anglia
+      year: Sept 2004 - Oct 2005
+    - course: BA in Accounting from China
+      institution: 
+      year: Sept 2000 -July 2004
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+ skills:
   - name: Technical
     items:
       - name: java
